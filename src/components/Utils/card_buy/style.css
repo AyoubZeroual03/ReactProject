@@ -1,0 +1,12 @@
+p{
+    width: 200px;
+    padding: 2px 5px;
+  
+    /* Les deux règles suivantes sont nécessaires pour text-overflow */
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  
+  .overflow-clip {
+    text-overflow: ellipsis;
+  }

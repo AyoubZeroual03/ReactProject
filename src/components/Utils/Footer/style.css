@@ -1,0 +1,30 @@
+/* *{text-align: center !important;} */
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    
+  }
+
+.ico{
+    font-size: 2rem;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+ 
+}
+.fb:hover{
+transform: scale(1.3);
+color: blue;
+}
+.tw:hover{
+transform: scale(1.3);
+color: aqua;
+}
+.in:hover{
+transform: scale(1.3);
+color: orange;
+}
+
